@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Django](https://img.shields.io/badge/Django-F24E1E?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-#28a745?style=for-the-badge&logo=django&logoColor=white)
 
 
 
